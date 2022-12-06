@@ -1,0 +1,8 @@
+some possible relationships between these variables could include:
+
+A higher 降雨機率 (probability of precipitation) may be associated with higher 體感溫度 (feels-like temperature) due to the cooling effect of precipitation.
+A higher 體感溫度 may be associated with a higher 溫度 (temperature) due to the heat-trapping effect of humidity.
+A higher 體感溫度 and 溫度 may be associated with a higher 相對濕度 (relative humidity) because warmer air can hold more water vapor.
+A higher 相對濕度 may be associated with a lower 露點溫度 (dew point temperature) because the air is less able to hold moisture at a higher temperature.
+Stronger 風速 (wind speed) may be associated with lower 體感溫度 because wind can cool the air.
+The direction of 風向 (wind direction) may affect the temperature and precipitation in a given location. For example, a northerly wind may bring cold air and snow, while a southerly wind may bring warm air and rain.
